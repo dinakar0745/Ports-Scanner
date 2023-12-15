@@ -2,7 +2,7 @@
 
 ## Overview
 
-Node Nmap Scanner is a simple Node.js script that utilizes the `node-nmap` library to perform network scanning using the Nmap tool.
+Port Scanner is a simple JS script that utilizes the `nmap` tool and telegram package to send the report via telegram  
 
 ## Features
 
